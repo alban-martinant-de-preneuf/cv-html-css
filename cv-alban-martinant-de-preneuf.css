@@ -35,7 +35,7 @@ header {
 }
 
 #photoDiv {
-    height: 240px;
+    height: 205px;
 }
 
 #photoContener {
@@ -116,7 +116,7 @@ aside {
 }
 
 aside section {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 .dateDiv {
@@ -204,8 +204,8 @@ aside section {
     width: 70%;
 }
 
-.P85 {
-    width: 85%;
+.P90 {
+    width: 90%;
 }
 
 #interests img {
