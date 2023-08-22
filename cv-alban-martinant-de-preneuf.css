@@ -40,7 +40,7 @@ header {
 
 #photoContener {
     margin: auto;
-    margin-top: 40px;
+    margin-top: 30px;
     text-align: center;
 }
 
@@ -48,7 +48,7 @@ header {
     /*-webkit-filter: grayscale(100%); /* Pour les navigateurs Chrome, Safari, Opera */
     /*filter: grayscale(100%);  /* pour Firefox */
     border-radius: 50%;
-    width: 180px;
+    width: 200px;
     height: auto;
     /*border: solid 1px #E5E5E5;*/
     
